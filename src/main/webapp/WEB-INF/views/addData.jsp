@@ -16,9 +16,10 @@ Add Historical Data Here
 <br>
 <form action="/dataAdded" method="post">
 
-			<input type="text" name="geoLoc" id="geoLoc" placeholder="placeholder for geoloc"/> Use current location <br>
-			<input type="text" name="zipCode" id="zipCode" placeholder="48047"/> Add by zip code <br>
-			<input type="text" name="data" id="data" placeholder="enter data here"/> Data <br>
+			Use current location <input type="text" name="geoLoc" id="geoLoc" placeholder="placeholder for geoloc"/><br>
+			Add by zip code <input type="text" name="zipCode" id="zipCode" placeholder="48047"/><br>
+			Year <input type="text" name="year" id="year" placeholder="1912"/><br>
+			Data <input type="text" name="hxData" id="hxData" placeholder="enter data here"/><br>
 
 			<br>
 			<br>

@@ -14,8 +14,8 @@
 Your data has been entered for review:
 <br>
 <br>
-New data for ${zipCode}
+New data for ${zipCode} for ${year}
 <br>
-${data}
+${hxData}
 </body>
 </html>
